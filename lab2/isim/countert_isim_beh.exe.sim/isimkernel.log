@@ -1,0 +1,10 @@
+Command line:
+   countert_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  51518
+
+Wed Feb 28 09:49:37 2018
+
+
+ Elaboration Time: 0.124801 sec
